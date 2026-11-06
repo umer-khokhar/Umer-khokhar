@@ -102,7 +102,7 @@ Hi, I'm Umer Khokhar!
 
 <p align="center">
 	<a href="https://github.com/Umer-Khokhar">
-		<img width="49.5%" src="https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png](https://github-profile-trophy.vercel.app/?username=madushadhanushka&theme=juicyfresh&no-bg=true" alt="Umer-Khokhar">
+		[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=madushandhanushka)](https://github.com/madushadhanushka/github-readme)
 		<img src="https://streak-stats.demolab.com?user=umer-khokhar&theme=default&hide_border=true" alt="umer-khokhar's GitHub Stats" />
 	</a>
 </p>
