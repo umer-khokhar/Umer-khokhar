@@ -102,7 +102,7 @@ Hi, I'm Umer Khokhar!
 
 <p align="center">
 	<a href="https://github.com/Umer-Khokhar">
-		<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Umer-Khokhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Umer-Khokhar">
+		<img width="49.5%" src="https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png" alt="Umer-Khokhar">
 		<img src="https://streak-stats.demolab.com?user=umer-khokhar&theme=default&hide_border=true" alt="umer-khokhar's GitHub Stats" />
 	</a>
 </p>
