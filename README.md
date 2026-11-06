@@ -109,34 +109,6 @@ Hi, I'm Umer Khokhar!
 
 <br>
 
-### ⚡ Top Languages
-
-<br>
-
-<p align="center">
-	<a href="https://github.com/Umer-Khokhar">
-		<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umer-Khokhar&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Umer-Khokhar">
-		<img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Umer-Khokhar&theme=tokyonight" alt="Umer-Khokhar">
-	</a>
-</p>
-
-<br>
-
-**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br>
-
-### 📊 Contribution Graph
-
-<br>
-
-<p align="center">
-	<a href="https://github.com/Umer-Khokhar">
-		<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umer-Khokhar&theme=tokyo-night&hide_border=true&area=true" alt="umeraswad">
-	</a>
-</p>
-
-<br>
 
 
  
